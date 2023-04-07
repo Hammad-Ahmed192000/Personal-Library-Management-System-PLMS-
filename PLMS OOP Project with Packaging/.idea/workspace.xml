@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Final Project PLMS:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ee8f2f6-8f35-4312-9cec-3947a458a77f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eEqukYcUTuH55AnHkXWFFAoBZp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab/Lab#13/CRUDTask/src/CRUDdemo.java" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ProjectDemo">
+    <configuration name="ProjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalProject.ProjectDemo" />
+      <module name="Final Project PLMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Final Project PLMS.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Final_Project_PLMS_jar/Final Project PLMS.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProjectDemo" />
+        <item itemvalue="JAR Application.Final Project PLMS.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ee8f2f6-8f35-4312-9cec-3947a458a77f" name="Default Changelist" comment="" />
+      <created>1593897324237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593897324237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1594153042275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1594153042275" />
+    <state x="484" y="255" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594340901137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="255" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1594340901137" />
+    <state x="484" y="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1593898494101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1593898494101" />
+    <state x="413" y="114" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1593911332504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593911332504" />
+    <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1595148384849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595148384849" />
+    <state width="1323" height="110" key="GridCell.Tab.0.bottom" timestamp="1595358043822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="110" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595358043822" />
+    <state width="1323" height="110" key="GridCell.Tab.0.center" timestamp="1595358043822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="110" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595358043822" />
+    <state width="1323" height="110" key="GridCell.Tab.0.left" timestamp="1595358043822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="110" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595358043822" />
+    <state width="1323" height="110" key="GridCell.Tab.0.right" timestamp="1595358043822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="110" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595358043822" />
+    <state x="325" y="0" key="SettingsEditor" timestamp="1595264411229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="325" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595264411229" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1595347579383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595347579383" />
+    <state x="262" y="103" width="842" height="554" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593909731901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="103" width="842" height="554" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1593909731901" />
+    <state x="65" y="0" key="new project wizard" timestamp="1594802602615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1594802602615" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1595143127171">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1595143127171" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1594339865823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594339865823" />
+  </component>
+</project>
